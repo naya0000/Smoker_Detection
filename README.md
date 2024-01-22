@@ -1,4 +1,4 @@
-# Smoker Detection using Swin Transformer with PyTorch
+# Smoker Detection using Swin Transformer
 
 ## Dataset
 
